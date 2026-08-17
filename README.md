@@ -1,6 +1,6 @@
 <h1 align=center> ⊹ ࣪ ˖Spirit's Space˖ ࣪ ⊹ </h1>
 
-<img src="https://64.media.tumblr.com/191e89552a6cf7f082fddc2024c83ab9/9f40624fb93ae11e-12/s2048x3072/6ebe945112986685fc6e69e5bcd7370e2b8cfb81.gif">
+<img src="https://tenor.com/pt-BR/view/hug-divider-search-galaxy-gif-12271165849165526562">
 
 <ul list-style-type:none>
   <li align=center>
