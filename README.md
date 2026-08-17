@@ -1,6 +1,6 @@
 <h1 align=center> ⊹ ࣪ ˖Spirit's Space˖ ࣪ ⊹ </h1>
 
-<img src="https://64.media.tumblr.com/7d1df439838ecec760abb558fa089b2a/14362a0ab4b449ed-a6/s1280x1920/97b2f0b86fd97d4adae4937b3f865dc97623b9eb.gifv">
+<img src="https://64.media.tumblr.com/191e89552a6cf7f082fddc2024c83ab9/9f40624fb93ae11e-12/s2048x3072/6ebe945112986685fc6e69e5bcd7370e2b8cfb81.gif">
 
 <ul list-style-type:none>
   <li align=center>
