@@ -4,13 +4,13 @@
 
 <ul list-style-type:none>
   <li align=center>
-      ⋆˚꩜｡ Cursando Informatica para Internet na ETEC Cidade Tiradentes (˶ᵔᵕᵔ˶)
+      ⋆˚꩜｡ Cursando Informatica para Internet na ETEC Cidade Tiradentes ⋆˚࿔
   </li>
   <li align=center>
-      ⋆˚꩜｡ Aprendendo HTML, CSS, JavaScript, MySQL e Python ◝(ᵔᗜᵔ)◜
+      ⋆˚꩜｡ Aprendendo HTML, CSS, JavaScript, MySQL e Python ⋆˚࿔
   </li>
   <li align=center>
-      ⋆˚꩜｡ Contate-me no email: tgv22362236@gmail.com ദ്ദി(◝ ⩊ ◜).ᐟ
+      ⋆˚꩜｡ Contate-me no email: tgv22362236@gmail.com ⋆˚࿔
   </li>
 </ul>
 
