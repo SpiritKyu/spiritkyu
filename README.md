@@ -14,7 +14,7 @@
 
 </div>
 
-<h3 align="center">Linguagens ᕙ( •̀ ᗜ •́ )ᕗ </h3>
+<h3 align="center"> Linguagens ᕙ( •̀ ᗜ •́ )ᕗ </h3>
 
 <div align="center">
   <img src="https://devicons.io/devicons/icons/python.svg" width=50px>
