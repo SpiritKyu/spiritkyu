@@ -33,3 +33,7 @@
   <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
   <img src="https://devicons.io/devicons/icons/brave.svg" width=50px>
 </div>
+
+<div align="right">
+  <h6> .𖥔 ݁ ˖ִ🛸༄˖°. Lembre-se, 42 é a resposta. </h3>
+</div>
