@@ -20,8 +20,8 @@
   <img src="https://devicons.io/devicons/icons/python.svg" width=50px>
   <img src="https://devicons.io/devicons/icons/javascript.svg" width=50px>
   <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/html-5.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/css.svg" width=50px>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50"/>
 </div>
 
 <h3 align="center">Ferramentas ( ദ്ദി˙ᗜ˙)</h3>
