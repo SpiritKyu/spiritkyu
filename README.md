@@ -54,6 +54,6 @@
 
   My goal is simple: write code, build software, and maybe someday <br> become a well-known programmer?
 
-  I'm also interested in cybersecurity, which is why I've been using <br> Linux for 2 years!
+  I'm also interested in cybersecurity, which is why I've been using <br> Linux for 1 year and a half!
 
 </div>
