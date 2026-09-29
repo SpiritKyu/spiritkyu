@@ -6,38 +6,52 @@
 
 <div align="center">
 
-⋆｡°✩ 𝐂ursando Informática para Internet na ETEC Cidade Tiradentes ⋆｡°✩
+⋆｡°✩ 𝐒tudying Internet Computing at ETEC Cidade Tiradentes ⋆｡°✩
 
-⋆｡°✩ 𝐀prendendo HTML, CSS, JavaScript, MySQL e Python ⋆｡°✩
+⋆｡°✩ 𝐋earning HTML, CSS, JavaScript, MySQL and Python ⋆｡°✩
 
-⋆｡°✩ 𝐂ontate-me no email: tgv22362236@email.com ⋆｡°✩
+⋆｡°✩ 𝐓echnically Full Stack??? ⋆｡°✩
+
+⋆｡°✩ 𝐂ontact me at: tgv22362236@email.com ⋆｡°✩
 
 </div>
 
-<h3 align="center"> Tecnologias ᕙ( •̀ ᗜ •́ )ᕗ </h3>
+<h3 align="center"> 𝐓echnologies ᕙ( •̀ ᗜ •́ )ᕗ </h3>
 
 <div align="center">
-  <img src="https://devicons.io/devicons/icons/python.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/javascript.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <img src="https://devicons.io/devicons/icons/python.svg" width="50px">
+  <img src="https://devicons.io/devicons/icons/javascript.svg" width="50px">
+  <img src="https://devicons.io/devicons/icons/mysql.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50">
 </div>
 
 <div align="right">
-<h6> HTML e CSS NÃO são linguagens de programação, tá? TÁ??? </h6>
+<h6> HTML and CSS are NOT programming languages, okay? OKAY??? </h6>
 </div>
 
-<h3 align="center">Ferramentas ( ദ്ദി˙ᗜ˙)</h3>
+<h3 align="center">𝐓ools ( ദ്ദി˙ᗜ˙)</h3>
 
 <div align="center">
-  <img src="https://devicons.io/devicons/icons/zorin-os.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/github-icon.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
-  <img src="https://devicons.io/devicons/icons/brave.svg" width=50px>
+  <img src="https://devicons.io/devicons/icons/zorin-os.svg" width="50px">
+  <img src="https://devicons.io/devicons/icons/github-icon.svg" width="50px">
+  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width="50px">
+  <img src="https://devicons.io/devicons/icons/mysql.svg" width="50px">
+  <img src="https://devicons.io/devicons/icons/brave.svg" width="50px">
 </div>
 
 <div align="right">
-  <h6> .𖥔 ݁ ˖ִ🛸༄˖°. Lembre-se, 42 é a resposta. </h6>
+  <h6> .𖥔 ݁ ˖ִ🛸༄˖°. Remember, 42 is the answer. </h6>
+</div>
+
+<h1 align="center"> ⋆˚꩜｡ 𝐀bout 𝐌e ᶻ 𝗓 𐰁</h1>
+
+<div align="center">
+Valkyria here! I'm a first-year Internet Computing student, focusing on Full Stack development.
+
+I'm currently learning MySQL and JavaScript at school, while teaching myself Python.
+
+My goal is simple: write code, build software, and maybe someday become a well-known programmer?
+
+I'm also interested in cybersecurity, which is why I've been using Linux for 2 years!
 </div>
