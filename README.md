@@ -14,7 +14,7 @@
 
 </div>
 
-<h3 align="center"> Linguagens ᕙ( •̀ ᗜ •́ )ᕗ </h3>
+<h3 align="center"> Tecnologias ᕙ( •̀ ᗜ •́ )ᕗ </h3>
 
 <div align="center">
   <img src="https://devicons.io/devicons/icons/python.svg" width=50px>
@@ -22,6 +22,10 @@
   <img src="https://devicons.io/devicons/icons/mysql.svg" width=50px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50"/>
+</div>
+
+<div align="right">
+<h6> HTML e CSS NÃO são linguagens de programação, tá? TÁ??? </h6>
 </div>
 
 <h3 align="center">Ferramentas ( ദ്ദി˙ᗜ˙)</h3>
@@ -35,5 +39,5 @@
 </div>
 
 <div align="right">
-  <h6> .𖥔 ݁ ˖ִ🛸༄˖°. Lembre-se, 42 é a resposta. </h3>
+  <h6> .𖥔 ݁ ˖ִ🛸༄˖°. Lembre-se, 42 é a resposta. </h6>
 </div>
