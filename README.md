@@ -47,7 +47,7 @@
 <h1 align="center"> ⋆˚꩜｡ 𝐀bout 𝐌e ᶻ 𝗓 𐰁</h1>
 
 <div>
-  <img src="./assets/cueios.png" width="180" align="right">
+  <img src="./assets/cueios.png" width="180" align="left">
 
   Valkyria here! I'm a first-year Internet Computing student,<br> focusing on Full Stack development.
   I'm currently learning <br> MySQL and JavaScript at school, while teaching myself Python.
