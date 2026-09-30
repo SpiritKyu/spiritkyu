@@ -33,7 +33,7 @@
 <h3 align="center">𝐓ools ( ദ്ദി˙ᗜ˙)</h3>
 
 <div align="center">
-  <img src="https://devicons.io/devicons/icons/zorin-os.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50"/>
   <img src="https://devicons.io/devicons/icons/github-icon.svg" width="50px">
   <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width="50px">
   <img src="https://devicons.io/devicons/icons/mysql.svg" width="50px">
