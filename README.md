@@ -11,9 +11,7 @@
 </p>
 
 
-<img src="./assets/cueios.png" width="150" align="left">
-
-<div align="justify">
+<div align="center">
 
 ⋆｡°✩ 𝐒tudying Internet Computing at ETEC Cidade Tiradentes ⋆｡°✩
 
