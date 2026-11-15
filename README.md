@@ -1,4 +1,10 @@
-<h1 align="center"> ⋆˚꩜｡𝐒pirit's 𝐒pace ᶻ 𝗓 𐰁</h1>
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=%E2%9C%B6+welcome+to+spirit's+space;%E2%9C%B6+follow+the+white+rabbit...;%E2%9C%B6+%22knock%2C+knock%2C+neo.%22" alt="Typing SVG" />
+</a>
+</div>
+
+<h3></h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/iDOHd7qpWhAAAAAd/divider-mandala.gif" width="498">
@@ -16,28 +22,37 @@
 
 </div>
 
-<h3 align="center"> 𝐓echnologies ᕙ( •̀ ᗜ •́ )ᕗ </h3>
+<p align="center">
+<img src="./assets/section-tech.svg" width="520">
+</p>
 
 <div align="center">
-  <img src="https://devicons.io/devicons/icons/python.svg" width="50px">
-  <img src="https://devicons.io/devicons/icons/javascript.svg" width="50px">
-  <img src="https://devicons.io/devicons/icons/mysql.svg" width="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50">
+
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
 <div align="right">
 <h6> HTML and CSS are NOT programming languages, okay? OKAY??? </h6>
 </div>
 
-<h3 align="center">𝐓ools ( ദ്ദി˙ᗜ˙)</h3>
+<p align="center">
+<img src="./assets/section-tools.svg" width="360">
+</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50"/>
-  <img src="https://devicons.io/devicons/icons/github-icon.svg" width="50px">
-  <img src="https://devicons.io/devicons/icons/visual-studio-code.svg" width="50px">
-  <img src="https://devicons.io/devicons/icons/mysql.svg" width="50px">
-  <img src="https://devicons.io/devicons/icons/brave.svg" width="50px">
+
+![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs_code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-000000?style=for-the-badge&logo=godotengine&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Brave](https://img.shields.io/badge/brave-000000?style=for-the-badge&logo=brave&logoColor=white)
+
 </div>
 
 <div align="right">
@@ -48,6 +63,7 @@
 
 <div>
   <img src="./assets/cueios.png" width="180" align="left">
+  
 
   Valkyria here! I'm a first-year Internet Computing student,<br> focusing on Full Stack development.
   I'm currently learning <br> MySQL and JavaScript at school, while teaching myself Python.
@@ -57,3 +73,5 @@
   I'm also interested in cybersecurity, which is why I've been using <br> Linux for 1 year and a half!
 
 </div>
+
+
