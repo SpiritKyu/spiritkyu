@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=%E2%9C%B6+welcome+to+spirit's+space;%E2%9C%B6+follow+the+white+rabbit...;%E2%9C%B6+%22knock%2C+knock%2C+neo.%22;%E2%9C%B6+42+is+the+answer.;%E2%9C%B6+I'm+not+a+cat!+I'm+a+person!;%E2%9C%B6+close+your+eyes,+daisuke...;%E2%9C%B6+all+that+remains+is+perfect+hatred.;%E2%9C%B6+the+cake+will+be+served+at+the+conclusion+of+the+test..;%E2%9C%B6+Despite+Everything,+It's+Still+You;%E2%9C%B6+In+my+restless+dreams,+I+see+that+town..." alt="Typing SVG" width="2000"/>
 </a>
 </div>
-In my restless dreams
-I see that town
+
 <h3></h3>
 
 <p align="center">
