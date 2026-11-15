@@ -72,3 +72,7 @@
 
 </div>
 
+<div>
+  <img src="./assets/disco-half.gif">
+</div>
+
