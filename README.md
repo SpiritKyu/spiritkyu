@@ -10,7 +10,10 @@
   <img src="https://media1.tenor.com/m/iDOHd7qpWhAAAAAd/divider-mandala.gif" width="498">
 </p>
 
-<div align="center">
+
+<img src="./assets/cueios.png" width="150" align="left">
+
+<div align="justify">
 
 ⋆｡°✩ 𝐒tudying Internet Computing at ETEC Cidade Tiradentes ⋆｡°✩
 
@@ -61,9 +64,13 @@
 
 <h1 align="center"> ⋆˚꩜｡ 𝐀bout 𝐌e ᶻ 𝗓 𐰁</h1>
 
-<div>
-<img src="./assets/cueios.png" width="250" align="left">
+<div align=center>
 <img src="https://cdn.jsdelivr.net/gh/SpiritKyu/SpiritKyu@main/assets/about-block.svg" alt="about me">
 </div>
 
+<div align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SpiritKyu&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+
+</div>
 
