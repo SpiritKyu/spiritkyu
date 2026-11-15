@@ -62,16 +62,8 @@
 <h1 align="center"> ⋆˚꩜｡ 𝐀bout 𝐌e ᶻ 𝗓 𐰁</h1>
 
 <div>
-  <img src="./assets/cueios.png" width="180" align="left">
-  
-
-  Valkyria here! I'm a first-year Internet Computing student,<br> focusing on Full Stack development.
-  I'm currently learning <br> MySQL and JavaScript at school, while teaching myself Python.
-
-  My goal is simple: write code, build software, and maybe someday <br> become a well-known programmer?
-
-  I'm also interested in cybersecurity, which is why I've been using <br> Linux for 1 year and a half!
-
+<img src="./assets/cueios.png" width="250" align="left">
+<img src="https://cdn.jsdelivr.net/gh/SpiritKyu/SpiritKyu@main/assets/about-block.svg" alt="about me">
 </div>
 
 
