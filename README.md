@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=%E2%9C%B6+welcome+to+spirit's+space;%E2%9C%B6+follow+the+white+rabbit...;%E2%9C%B6+%22knock%2C+knock%2C+neo.%22;%E2%9C%B6+42+is+the+answer.;%E2%9C%B6+I'm+not+a+cat!+I'm+a+person!;%E2%9C%B6+close+your+eyes,+daisuke...;%E2%9C%B6+all+that+remains+is+perfect+hatred.;%E2%9C%B6+the+cake+will+be+served+at+the+conclusion+of+the+test..;%E2%9C%B6+Despite+Everything,+It's+Still+You;%E2%9C%B6+In+my+restless+dreams,+I+see+that+town...;%E2%9C%B6+This+action+will+have+consequences..." alt="Typing SVG" width="2000"/>
@@ -21,6 +23,12 @@
 
 ⋆｡°✩ 𝐂ontact me at: tgv22362236@email.com ⋆｡°✩
 
+</div>
+
+<div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hochaq5c4z7bam7m2de4qarqbu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
 </div>
 
 <p align="center">
@@ -71,4 +79,3 @@
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SpiritKyu&theme=dark&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
 </div>
-
